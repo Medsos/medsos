@@ -1,0 +1,274 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<title>@santosrudy0586</title>
+<link rel="search" type="application/opensearchdescription+xml" title="Yuku" href="http://www.yuku.com/search/opensearch">
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="Description" content="">
+<meta name="Keywords" content="yuku, profile">
+<meta http-equiv="imagetoolbar" content="no">
+<meta name="MSSmartTagsPreventParsing" content="true">
+<meta http-equiv="X-UA-Compatible" content="IE=8">
+<meta name="inmobi-site-verification" content="c90da2450e53c60edf57087641f91166">
+<meta property="og:site_name" content="Yuku">
+<meta property="og:title" content="@santosrudy0586">
+<meta property="og:url" content="http://rudy-santosa.u.yuku.com/bloggy/post/pid/53570">
+<link href="/favicon.ico" rel="shortcut icon" title="Site Icon" type="image/x-icon">
+<link href="/favicon.ico" rel="icon" title="Site Icon" type="image/x-icon">
+<script type="text/javascript">
+    if(!window.gs) window.gs = {};
+        window.gs.staticServer = "http://static.yuku.com";
+    </script><script type="text/javascript" src="http://static.yuku.com/common/bypass/js/jquery.js?r=c70208de64ace34bd490d3686e11f49cf9f205678"></script><script type="text/javascript" src="http://static.yuku.com/common/bypass/js/global_platform.js?r=c70208de64ace34bd490d3686e11f49cf9f205678"></script><script type="text/javascript" src="http://static.yuku.com/common/bypass/js/portal_main.js?r=c70208de64ace34bd490d3686e11f49cf9f205678"></script><script type="text/javascript" src="http://static.yuku.com/common/bypass/js/adFunc.js?r=c70208de64ace34bd490d3686e11f49cf9f205678"></script><script type="text/javascript">
+			var googletag = googletag || {};
+			googletag.cmd = googletag.cmd || [];
+			(function() {
+			var gads = document.createElement('script');
+			gads.async = true;
+			gads.type = 'text/javascript';
+			var useSSL = 'https:' == document.location.protocol;
+			gads.src = (useSSL ? 'https:' : 'http:') + 
+			'//www.googletagservices.com/tag/js/gpt.js';
+			var node = document.getElementsByTagName('script')[0];
+			node.parentNode.insertBefore(gads, node);
+			})();
+			</script><script type="text/javascript">
+			googletag.cmd.push(function() {
+			googletag.defineSlot('/1040985/Yuku_Profile_300x250', [300, 250], 'div-gpt-ad-1406521886112-0').addService(googletag.pubads());
+			
+			googletag.defineSlot('/1040985/Yuku-Desk-Find1-300x250', [300, 250], 'div-gpt-ad-1381951100392-0').addService(googletag.pubads());
+			googletag.defineSlot('/1040985/Yuku-Desk-Find2-300x250', [300, 250], 'div-gpt-ad-1381951100392-1').addService(googletag.pubads());
+			googletag.defineSlot('/1040985/Yuku-Desk-Login-300x250', [300, 250], 'div-gpt-ad-1381951100392-2').addService(googletag.pubads());
+
+			googletag.pubads().setTargeting("quality","1");googletag.pubads().enableAsyncRendering();
+            googletag.enableServices();
+            setInterval(function(){googletag.pubads().refresh();}, 130000);
+            });
+            </script><link rel="stylesheet" type="text/css" href="http://static.yuku.com/common/bypass/styles/profilereset.css?r=c70208de64ace34bd490d3686e11f49cf9f205678">
+<link rel="stylesheet" type="text/css" href="http://static.yuku.com/common/bypass/styles/portal_main.css?r=c70208de64ace34bd490d3686e11f49cf9f205678">
+<link rel="stylesheet" type="text/css" href="http://static.yuku.com/common/bypass/styles/modal.css?r=c70208de64ace34bd490d3686e11f49cf9f205678">
+<link rel="stylesheet" type="text/css" href="http://static.yuku.com/common/bypass/styles/drop_menu.css?r=c70208de64ace34bd490d3686e11f49cf9f205678">
+<link rel="stylesheet" type="text/css" href="http://static.yuku.com/common/bypass/styles/global_nav.css?r=c70208de64ace34bd490d3686e11f49cf9f205678">
+<link rel="stylesheet" type="text/css" href="http://static.yuku.com/common/bypass/styles/profile_hacks_new.css?r=c70208de64ace34bd490d3686e11f49cf9f205678">
+<link id="ka-currentSkin" rel="stylesheet" type="text/css" href="http://static.yuku.com/skins/portal/yuku_blue/skin.css" title="skin: Blue (yuku_blue)">
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-23695468-18']);
+	_gaq.push(['_setDomainName', 'none']);
+	_gaq.push(['_setAllowLinker', true]);
+	_gaq.push(['_trackPageview']);
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script><meta name="google-site-verification" content="ReLcRs3PowT_ijgT-S6HqUP1CO1HfpAxWBj_ZoJywg8">
+<meta name="msvalidate.01" content="11BE809AC6B1789B9299D8F2A4CA1252">
+</head>
+<body id="ka-login-page-profile" class="ka-front-pages">
+<div id="ka-page-wrap">
+    <div id="ka-page">
+    <div id="ka-header">
+      <h1>
+<a href="http://www.yuku.com" class="ka-company-logo" title="Yuku a social universe of communities united by people and their passions">Yuku</a>
+	<span class="ka-company-slogan"> a social universe of communities united by people and their passions</span>
+</h1>
+            <div class="ka-sub-nav">
+	<ul class="ka-nav">
+<li class="ka-create-communtiy  ka-first ka-subnav-create-community"><a href="http://www.yuku.com/portal/createcommunity">create community</a></li>
+<li class="ka-sign-in  ka-subnav-login"><a href="#ka-login-box">login</a></li>
+<li class="ka-register  ka-subnav-join-now"><a href="/signup/me">Join now</a></li>
+</ul>
+</div>
+
+
+<script type="text/javascript">
+var rpxJsHost = (("https:" == document.location.protocol) ? "https://" : "http://static.");
+document.write(unescape("%3Cscript src='" + rpxJsHost +
+"rpxnow.com/js/lib/rpx.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script type="text/javascript">
+RPXNOW.overlay = true;
+RPXNOW.language_preference = 'en';
+</script><div id="ka-top-bar-login" class="ka-local-nav">
+  <ul class="nav">
+<li class="ka-sign-in ka-subnav-login">
+        <a href="/login/loginnow">Log in</a>
+    </li>
+    <li class="ka-register ka-subnav-join-now">
+       <a href="/signup/me">Join now</a>
+    </li>
+  </ul>
+<div class="ka-shim"></div>
+</div>
+      
+    </div>
+    <div id="ka-content">
+      <div class="ka-style-helper1"></div>
+<div class="ka-main ka-content">
+<style>
+#ka-content .ka-main {
+ min-height:440px;
+ height:100%;
+}
+#ka-login-page #ka-content form {
+ background:none;
+}
+
+ #ka-content span.ka-error-notice {
+     margin-left:0px !important;
+ }
+.ka-main {
+    max-width:915px;
+    width:100%;
+}
+#ka-page, #ka-portal-footer, #ka-corporate-footer {
+    width:100%;
+    max-width: 918px;
+    margin: auto;
+}
+#ka-field input {
+    width:100%;
+}
+#ka-register-page #ka-content .ka-main-section h2 {
+    width:100%;
+    height:auto;
+}
+#ka-content .ka-main {
+    padding:0px;
+}
+#ka-rpx-login-page #ka-content .ka-description, #ka-register-page #ka-content .ka-description {
+    padding-left: 0px;
+}
+.ka-style-helper2 {
+    width: auto;
+    height: 18px;
+}
+#ka-content div.ka-password-field input, #ka-content div.ka-text-field input,.ka-text {
+    width: 95%;
+}
+.ka-registration-page #ka-content .ka-main-section, .ka-front-pages #ka-content .ka-main-section {
+    margin-right:10px;
+}
+    @media only screen
+    and (max-device-width: 480px)    {
+    .ka-section.ka-main-section { padding-left:10px; !important }
+        body { overflow-x:hidden; }
+	.ka-beta { display:none; }
+    }
+</style>
+<div class="ka-main-section ka-section ka-hvr">
+<h2>Rudy santosa is on Yuku,  <a href="/signup/me"> join the fun</a> or <a href="/login/loginnow">log in</a>!</h2>
+<div class="ka-content">
+<!-- AddThis -->
+<div class="addthis_toolbox addthis_default_style addthis-yuku">
+	<a class="addthis_button_preferred_1"></a>
+	<a class="addthis_button_preferred_2"></a>
+	<a class="addthis_button_preferred_3"></a>
+	<a class="addthis_button_preferred_4"></a>
+	<a class="addthis_button_compact"></a>
+	<a class="addthis_counter addthis_bubble_style"></a>
+</div>
+<script type="text/javascript">
+	var addthis_config = {
+		'data_track_clickback': true,
+		'data_track_addressbar': true
+	}
+</script><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4daf78c95018cee8"></script><div class="ka-alpha">
+     <img class="ka-photo-border" src="http://images.yuku.com/image/gif/14b26f1ae529c3079389580679e467a2872776ab_a.gif"><div class="ka-content">
+	<ul class="ka-actions">
+<li class="ka-add-friend"><a href="/login/loginnow">Add me as a friend</a></li>
+		<li class="ka-send-message"><a href="/login/loginnow">Send me a message</a></li>
+		<li class="ka-view-photos"><a href="/login/loginnow">View my photo</a></li>
+	</ul>
+</div>
+</div>
+
+<div class="ka-beta">
+
+     <div id="ka-profile-pitch">
+	<q>Come and join the community! <span class="ka-smiley"></span></q>
+	<a href="http://rudy-santosa.u.yuku.com">~rudy santosa</a>
+     </div>
+
+</div>
+<div class="ka-gamma">
+     <p class="ka-notice"></p>
+     <form id="ka-login-page-form" method="post" action="">
+     <input type="hidden" name="vno" value="r_4f00cdf54ec564959b039bdc71478e2f"><div class="ka-field ka-text-field ka-login">
+<label for="ka-login_username">Username:</label><span class="ka-input-wrapper ka-text ka-hvr ka-default-value"><input id="ka-login_username" class="ka-text ka-hvr ka-default-value" type="text" name="login" tabindex="1" value="Enter username" onfocus="this.value = ''; this.onfocus = null; $j(this).removeClass('ka-default-value');"></span>
+</div>	<script type="text/javascript">$('ka-login_username').focus();</script><div class="ka-field ka-password-field ka-password">
+<label for="ka-login_password">Password:</label><span class="ka-input-wrapper ka-text ka-hvr"><input id="ka-login_password" class="ka-text ka-hvr" type="password" name="password" tabindex="2"></span>
+</div>	<div class="ka-form-actions"><button class="ka-submit ka-hvr ka-login" type="submit"><span>login</span></button></div>	<p class="ka-forgot-actions">
+		<a href="http://www.yuku.com/portal/resetpass" title="reset password">Forgot your login?</a>
+	</p>
+     </form>
+</div>
+
+</div>
+</div>
+	</div>
+<div class="ka-style-helper2"></div>    </div>  </div>
+<div id="ka-portal-footer">
+	  <div id="div-gpt-ad-1365704002086-1" style="width:1px; height:1px;">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365704002086-1'); });
+</script>
+</div>
+  <div>
+  <div class="ka-new-to-yuku ka-section ka-hvr">
+<h2>New To Yuku?</h2>
+<div class="ka-content">    <ul>
+<li><a href="/portal/platform">platform</a></li>
+      <li><a href="/signup/me">sign up</a></li>
+      <li><a href="/portal/features">features</a></li>
+      <li><a href="/portal/customization">custom design</a></li>
+      <li><a href="/portal/createcommunity">start a group</a></li>
+      <li><a href="/portal/communities">showcase</a></li>
+    </ul>
+</div>
+</div>  <div class="ka-yuku-members ka-section ka-hvr">
+<h2>Welcome, members!</h2>
+<div class="ka-content">    <ul>
+<li><a href="http://find.Yuku.com">find forum</a></li>
+    <li><a href="http://support.Yuku.com">support</a></li>
+    <li><a href="/settings/supporter">be supporter</a></li>
+    <li><a href="http://www.crowdgather.com/legal">terms of use</a></li>
+    </ul>
+</div>
+</div>
+</div>
+</div>
+
+<script type="text/javascript" src="https://exityield.advertise.com/js/exit.min.js"></script><script type="text/javascript">
+AdvExit.init({affid: 'crowdgather', subid: 'exityield', evoke: 'searchback'}); </script><div id="ka-corporate-footer">
+<p>
+  © <a href="http://www.yuku.com/">Yuku</a> 2016. <br>All rights reserved.
+</p>
+</div>
+
+</div>
+<!-- Quantcast Tag --><script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-daqS9FCDnq2O2"
+});
+</script><noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-daqS9FCDnq2O2.gif" border="0" height="1" width="1" alt="Quantcast">
+</div>
+</noscript>
+<!-- End Quantcast tag --><!-- <env F="web19
+" D="asdf" R="c70208de64ace34bd490d3686e11f49cf9f205678"/> -->
+</body>
+</html>
