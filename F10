@@ -1,0 +1,1105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/facebook-github-bot-7</id>
+  <link type="text/html" rel="alternate" href="https://github.com/facebook-github-bot-7"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/facebook-github-bot-7.atom"/>
+  <title>facebook-github-bot-7’s Activity</title>
+  <updated>2016-05-03T15:37:59Z</updated>
+  <entry>
+    <id>tag:github.com,2008:IssueCommentEvent/3967250306</id>
+    <published>2016-05-03T15:37:59Z</published>
+    <updated>2016-05-03T15:37:59Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/facebook/react/pull/6665#issuecomment-216569508"/>
+    <title type="html">facebook-github-bot-7 commented on pull request facebook/react#6665</title>
+    <author>
+      <name>facebook-github-bot-7</name>
+      <email></email>
+      <uri>https://github.com/facebook-github-bot-7</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/8397364?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- issue_comment --&gt;
+&lt;svg aria-label=&quot;Issue comment&quot; class=&quot;octicon octicon-comment-discussion dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;32&quot;&gt;&lt;path d=&quot;M15 2H6c-0.55 0-1 0.45-1 1v2H1c-0.55 0-1 0.45-1 1v6c0 0.55 0.45 1 1 1h1v3l3-3h4c0.55 0 1-0.45 1-1V10h1l3 3V10h1c0.55 0 1-0.45 1-1V3c0-0.55-0.45-1-1-1zM9 12H4.5l-1.5 1.5v-1.5H1V6h4v3c0 0.55 0.45 1 1 1h3v2z m6-3H13v1.5l-1.5-1.5H6V3h9v6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-05-03T15:37:59Z&quot;&gt;May 3, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:actor&quot;&gt;facebook-github-bot-7&lt;/a&gt; commented on pull request &lt;a href=&quot;/facebook/react/pull/6665#issuecomment-216569508&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:issue-comment&quot; title=&quot;refine the translation of chapter 12-context&quot;&gt;facebook/react#6665&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot;&gt;&lt;img alt=&quot;@facebook-github-bot-7&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars2.githubusercontent.com/u/8397364?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+  &lt;div class=&quot;message markdown-body&quot;&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;&lt;a href=&quot;https://github.com/Yaxian&quot; class=&quot;user-mention&quot;&gt;@Yaxian&lt;/a&gt; updated the pull request.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:IssueCommentEvent/3966803226</id>
+    <published>2016-05-03T14:17:18Z</published>
+    <updated>2016-05-03T14:17:18Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/facebook/react-native/pull/7353#issuecomment-216542535"/>
+    <title type="html">facebook-github-bot-7 commented on pull request facebook/react-native#7353</title>
+    <author>
+      <name>facebook-github-bot-7</name>
+      <email></email>
+      <uri>https://github.com/facebook-github-bot-7</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/8397364?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- issue_comment --&gt;
+&lt;svg aria-label=&quot;Issue comment&quot; class=&quot;octicon octicon-comment-discussion dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;32&quot;&gt;&lt;path d=&quot;M15 2H6c-0.55 0-1 0.45-1 1v2H1c-0.55 0-1 0.45-1 1v6c0 0.55 0.45 1 1 1h1v3l3-3h4c0.55 0 1-0.45 1-1V10h1l3 3V10h1c0.55 0 1-0.45 1-1V3c0-0.55-0.45-1-1-1zM9 12H4.5l-1.5 1.5v-1.5H1V6h4v3c0 0.55 0.45 1 1 1h3v2z m6-3H13v1.5l-1.5-1.5H6V3h9v6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-05-03T14:17:18Z&quot;&gt;May 3, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:actor&quot;&gt;facebook-github-bot-7&lt;/a&gt; commented on pull request &lt;a href=&quot;/facebook/react-native/pull/7353#issuecomment-216542535&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:issue-comment&quot; title=&quot;(WIP) added stability to OSS instrumentation tests&quot;&gt;facebook/react-native#7353&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot;&gt;&lt;img alt=&quot;@facebook-github-bot-7&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars2.githubusercontent.com/u/8397364?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+  &lt;div class=&quot;message markdown-body&quot;&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;By analyzing the blame information on this pull request, we identified &lt;a href=&quot;https://github.com/mkonicek&quot; class=&quot;user-mention&quot;&gt;@mkonicek&lt;/a&gt; to be a potential reviewer.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:IssueCommentEvent/3965865432</id>
+    <published>2016-05-03T10:17:20Z</published>
+    <updated>2016-05-03T10:17:20Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/facebook/mcrouter/pull/119#issuecomment-216488212"/>
+    <title type="html">facebook-github-bot-7 commented on pull request facebook/mcrouter#119</title>
+    <author>
+      <name>facebook-github-bot-7</name>
+      <email></email>
+      <uri>https://github.com/facebook-github-bot-7</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/8397364?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- issue_comment --&gt;
+&lt;svg aria-label=&quot;Issue comment&quot; class=&quot;octicon octicon-comment-discussion dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;32&quot;&gt;&lt;path d=&quot;M15 2H6c-0.55 0-1 0.45-1 1v2H1c-0.55 0-1 0.45-1 1v6c0 0.55 0.45 1 1 1h1v3l3-3h4c0.55 0 1-0.45 1-1V10h1l3 3V10h1c0.55 0 1-0.45 1-1V3c0-0.55-0.45-1-1-1zM9 12H4.5l-1.5 1.5v-1.5H1V6h4v3c0 0.55 0.45 1 1 1h3v2z m6-3H13v1.5l-1.5-1.5H6V3h9v6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-05-03T10:17:20Z&quot;&gt;May 3, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:actor&quot;&gt;facebook-github-bot-7&lt;/a&gt; commented on pull request &lt;a href=&quot;/facebook/mcrouter/pull/119#issuecomment-216488212&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:issue-comment&quot; title=&quot;Fix wangle.sh to look for WANGLE_COMMIT in the right directory.&quot;&gt;facebook/mcrouter#119&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot;&gt;&lt;img alt=&quot;@facebook-github-bot-7&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars2.githubusercontent.com/u/8397364?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+  &lt;div class=&quot;message markdown-body&quot;&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Thank you for signing our Contributor License Agreement. We can now accept your code for this (and any) Facebook open source project. Thanks!&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:IssueCommentEvent/3965799292</id>
+    <published>2016-05-03T09:59:20Z</published>
+    <updated>2016-05-03T09:59:20Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/facebook/react-native/pull/7347#issuecomment-216484691"/>
+    <title type="html">facebook-github-bot-7 commented on pull request facebook/react-native#7347</title>
+    <author>
+      <name>facebook-github-bot-7</name>
+      <email></email>
+      <uri>https://github.com/facebook-github-bot-7</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/8397364?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- issue_comment --&gt;
+&lt;svg aria-label=&quot;Issue comment&quot; class=&quot;octicon octicon-comment-discussion dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;32&quot;&gt;&lt;path d=&quot;M15 2H6c-0.55 0-1 0.45-1 1v2H1c-0.55 0-1 0.45-1 1v6c0 0.55 0.45 1 1 1h1v3l3-3h4c0.55 0 1-0.45 1-1V10h1l3 3V10h1c0.55 0 1-0.45 1-1V3c0-0.55-0.45-1-1-1zM9 12H4.5l-1.5 1.5v-1.5H1V6h4v3c0 0.55 0.45 1 1 1h3v2z m6-3H13v1.5l-1.5-1.5H6V3h9v6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-05-03T09:59:20Z&quot;&gt;May 3, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:actor&quot;&gt;facebook-github-bot-7&lt;/a&gt; commented on pull request &lt;a href=&quot;/facebook/react-native/pull/7347#issuecomment-216484691&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:issue-comment&quot; title=&quot;Correct activity request code&quot;&gt;facebook/react-native#7347&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot;&gt;&lt;img alt=&quot;@facebook-github-bot-7&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars2.githubusercontent.com/u/8397364?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+  &lt;div class=&quot;message markdown-body&quot;&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Thank you for your pull request and welcome to our community. We require contributors to sign our Contributor License Agreement, and we don&#39;t seem …&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:IssueCommentEvent/3965799223</id>
+    <published>2016-05-03T09:59:19Z</published>
+    <updated>2016-05-03T09:59:19Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/facebook/react-native/pull/7347#issuecomment-216484689"/>
+    <title type="html">facebook-github-bot-7 commented on pull request facebook/react-native#7347</title>
+    <author>
+      <name>facebook-github-bot-7</name>
+      <email></email>
+      <uri>https://github.com/facebook-github-bot-7</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/8397364?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- issue_comment --&gt;
+&lt;svg aria-label=&quot;Issue comment&quot; class=&quot;octicon octicon-comment-discussion dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;32&quot;&gt;&lt;path d=&quot;M15 2H6c-0.55 0-1 0.45-1 1v2H1c-0.55 0-1 0.45-1 1v6c0 0.55 0.45 1 1 1h1v3l3-3h4c0.55 0 1-0.45 1-1V10h1l3 3V10h1c0.55 0 1-0.45 1-1V3c0-0.55-0.45-1-1-1zM9 12H4.5l-1.5 1.5v-1.5H1V6h4v3c0 0.55 0.45 1 1 1h3v2z m6-3H13v1.5l-1.5-1.5H6V3h9v6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-05-03T09:59:19Z&quot;&gt;May 3, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:actor&quot;&gt;facebook-github-bot-7&lt;/a&gt; commented on pull request &lt;a href=&quot;/facebook/react-native/pull/7347#issuecomment-216484689&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:issue-comment&quot; title=&quot;Correct activity request code&quot;&gt;facebook/react-native#7347&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot;&gt;&lt;img alt=&quot;@facebook-github-bot-7&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars2.githubusercontent.com/u/8397364?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+  &lt;div class=&quot;message markdown-body&quot;&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;By analyzing the blame information on this pull request, we identified &lt;a href=&quot;https://github.com/satya164&quot; class=&quot;user-mention&quot;&gt;@satya164&lt;/a&gt; and &lt;a href=&quot;https://github.com/alvinthen&quot; class=&quot;user-mention&quot;&gt;@alvinthen&lt;/a&gt; to be potential reviewers.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/3965487556</id>
+    <published>2016-05-03T08:34:34Z</published>
+    <updated>2016-05-03T08:34:34Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/facebook/react-native/compare/8ac03077c9...3e181b85b0"/>
+    <title type="html">facebook-github-bot-7 pushed to master at facebook/react-native</title>
+    <author>
+      <name>facebook-github-bot-7</name>
+      <email></email>
+      <uri>https://github.com/facebook-github-bot-7</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/8397364?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;svg aria-label=&quot;Push&quot; class=&quot;octicon octicon-git-commit dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 14 16&quot; width=&quot;28&quot;&gt;&lt;path d=&quot;M10.86 7c-0.45-1.72-2-3-3.86-3s-3.41 1.28-3.86 3H0v2h3.14c0.45 1.72 2 3 3.86 3s3.41-1.28 3.86-3h3.14V7H10.86zM7 10.2c-1.22 0-2.2-0.98-2.2-2.2s0.98-2.2 2.2-2.2 2.2 0.98 2.2 2.2-0.98 2.2-2.2 2.2z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-05-03T08:34:34Z&quot;&gt;May 3, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:actor&quot;&gt;facebook-github-bot-7&lt;/a&gt; pushed to &lt;a href=&quot;/facebook/react-native/tree/master&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:branch&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;/facebook/react-native&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:repo&quot;&gt;facebook/react-native&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot;&gt;&lt;img alt=&quot;@facebook-github-bot-7&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars2.githubusercontent.com/u/8397364?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits &quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;paldepind&quot;&gt;
+            &lt;img alt=&quot;@paldepind&quot; height=&quot;16&quot; src=&quot;https://avatars2.githubusercontent.com/u/521604?v=3&amp;amp;s=32&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/facebook/react-native/commit/3e181b85b0b2be9f5ed5c7ec9789f9718e532070&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:sha&quot;&gt;3e181b8&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              Change &quot;paste&quot; to &quot;type&quot;
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PullRequestEvent/3965487553</id>
+    <published>2016-05-03T08:34:34Z</published>
+    <updated>2016-05-03T08:34:34Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/facebook/react-native/pull/7330"/>
+    <title type="html">facebook-github-bot-7 closed pull request facebook/react-native#7330</title>
+    <author>
+      <name>facebook-github-bot-7</name>
+      <email></email>
+      <uri>https://github.com/facebook-github-bot-7</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/8397364?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- pull_request --&gt;
+&lt;svg aria-label=&quot;Pull request&quot; class=&quot;octicon octicon-git-pull-request dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 12 16&quot; width=&quot;24&quot;&gt;&lt;path d=&quot;M11 11.28c0-1.73 0-6.28 0-6.28-0.03-0.78-0.34-1.47-0.94-2.06s-1.28-0.91-2.06-0.94c0 0-1.02 0-1 0V0L4 3l3 3V4h1c0.27 0.02 0.48 0.11 0.69 0.31s0.3 0.42 0.31 0.69v6.28c-0.59 0.34-1 0.98-1 1.72 0 1.11 0.89 2 2 2s2-0.89 2-2c0-0.73-0.41-1.38-1-1.72z m-1 2.92c-0.66 0-1.2-0.55-1.2-1.2s0.55-1.2 1.2-1.2 1.2 0.55 1.2 1.2-0.55 1.2-1.2 1.2zM4 3c0-1.11-0.89-2-2-2S0 1.89 0 3c0 0.73 0.41 1.38 1 1.72 0 1.55 0 5.56 0 6.56-0.59 0.34-1 0.98-1 1.72 0 1.11 0.89 2 2 2s2-0.89 2-2c0-0.73-0.41-1.38-1-1.72V4.72c0.59-0.34 1-0.98 1-1.72z m-0.8 10c0 0.66-0.55 1.2-1.2 1.2s-1.2-0.55-1.2-1.2 0.55-1.2 1.2-1.2 1.2 0.55 1.2 1.2z m-1.2-8.8c-0.66 0-1.2-0.55-1.2-1.2s0.55-1.2 1.2-1.2 1.2 0.55 1.2 1.2-0.55 1.2-1.2 1.2z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-05-03T08:34:34Z&quot;&gt;May 3, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot; data-ga-click=&quot;News feed, event click, Event click type:PullRequestEvent target:actor&quot;&gt;facebook-github-bot-7&lt;/a&gt; closed pull request &lt;a href=&quot;/facebook/react-native/pull/7330&quot; data-ga-click=&quot;News feed, event click, Event click type:PullRequestEvent target:pull&quot;&gt;facebook/react-native#7330&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot;&gt;&lt;img alt=&quot;@facebook-github-bot-7&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars2.githubusercontent.com/u/8397364?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+  &lt;div class=&quot;message&quot;&gt;
+    &lt;blockquote&gt;Change &amp;quot;paste&amp;quot; to &amp;quot;type&amp;quot;&lt;/blockquote&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:IssueCommentEvent/3965254237</id>
+    <published>2016-05-03T07:19:20Z</published>
+    <updated>2016-05-03T07:19:20Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/facebook/react-native/pull/7030#issuecomment-216456619"/>
+    <title type="html">facebook-github-bot-7 commented on pull request facebook/react-native#7030</title>
+    <author>
+      <name>facebook-github-bot-7</name>
+      <email></email>
+      <uri>https://github.com/facebook-github-bot-7</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/8397364?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- issue_comment --&gt;
+&lt;svg aria-label=&quot;Issue comment&quot; class=&quot;octicon octicon-comment-discussion dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;32&quot;&gt;&lt;path d=&quot;M15 2H6c-0.55 0-1 0.45-1 1v2H1c-0.55 0-1 0.45-1 1v6c0 0.55 0.45 1 1 1h1v3l3-3h4c0.55 0 1-0.45 1-1V10h1l3 3V10h1c0.55 0 1-0.45 1-1V3c0-0.55-0.45-1-1-1zM9 12H4.5l-1.5 1.5v-1.5H1V6h4v3c0 0.55 0.45 1 1 1h3v2z m6-3H13v1.5l-1.5-1.5H6V3h9v6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-05-03T07:19:20Z&quot;&gt;May 3, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:actor&quot;&gt;facebook-github-bot-7&lt;/a&gt; commented on pull request &lt;a href=&quot;/facebook/react-native/pull/7030#issuecomment-216456619&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:issue-comment&quot; title=&quot;show code line in warning&quot;&gt;facebook/react-native#7030&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot;&gt;&lt;img alt=&quot;@facebook-github-bot-7&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars2.githubusercontent.com/u/8397364?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+  &lt;div class=&quot;message markdown-body&quot;&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;&lt;a href=&quot;https://github.com/skv-headless&quot; class=&quot;user-mention&quot;&gt;@skv-headless&lt;/a&gt; updated the pull request.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/3964563350</id>
+    <published>2016-05-03T01:45:11Z</published>
+    <updated>2016-05-03T01:45:11Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/facebook/infer/compare/90a5a5912f...49d32859cb"/>
+    <title type="html">facebook-github-bot-7 pushed to master at facebook/infer</title>
+    <author>
+      <name>facebook-github-bot-7</name>
+      <email></email>
+      <uri>https://github.com/facebook-github-bot-7</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/8397364?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;svg aria-label=&quot;Push&quot; class=&quot;octicon octicon-git-commit dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 14 16&quot; width=&quot;28&quot;&gt;&lt;path d=&quot;M10.86 7c-0.45-1.72-2-3-3.86-3s-3.41 1.28-3.86 3H0v2h3.14c0.45 1.72 2 3 3.86 3s3.41-1.28 3.86-3h3.14V7H10.86zM7 10.2c-1.22 0-2.2-0.98-2.2-2.2s0.98-2.2 2.2-2.2 2.2 0.98 2.2 2.2-0.98 2.2-2.2 2.2z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-05-03T01:45:11Z&quot;&gt;May 3, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:actor&quot;&gt;facebook-github-bot-7&lt;/a&gt; pushed to &lt;a href=&quot;/facebook/infer/tree/master&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:branch&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;/facebook/infer&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:repo&quot;&gt;facebook/infer&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot;&gt;&lt;img alt=&quot;@facebook-github-bot-7&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars2.githubusercontent.com/u/8397364?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits &quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;sblackshear&quot;&gt;
+            &lt;img alt=&quot;@sblackshear&quot; height=&quot;16&quot; src=&quot;https://avatars1.githubusercontent.com/u/3513142?v=3&amp;amp;s=32&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/facebook/infer/commit/49d32859cb3a7560a6136d2b7554f17b96ede15c&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:sha&quot;&gt;49d3285&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              adding optional postprocessing step to transfer functions
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/3964357028</id>
+    <published>2016-05-03T00:26:27Z</published>
+    <updated>2016-05-03T00:26:27Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/facebook/fbthrift/compare/dd367512aa...7afa9b3f88"/>
+    <title type="html">facebook-github-bot-7 pushed to master at facebook/fbthrift</title>
+    <author>
+      <name>facebook-github-bot-7</name>
+      <email></email>
+      <uri>https://github.com/facebook-github-bot-7</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/8397364?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;svg aria-label=&quot;Push&quot; class=&quot;octicon octicon-git-commit dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 14 16&quot; width=&quot;28&quot;&gt;&lt;path d=&quot;M10.86 7c-0.45-1.72-2-3-3.86-3s-3.41 1.28-3.86 3H0v2h3.14c0.45 1.72 2 3 3.86 3s3.41-1.28 3.86-3h3.14V7H10.86zM7 10.2c-1.22 0-2.2-0.98-2.2-2.2s0.98-2.2 2.2-2.2 2.2 0.98 2.2 2.2-0.98 2.2-2.2 2.2z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-05-03T00:26:27Z&quot;&gt;May 3, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:actor&quot;&gt;facebook-github-bot-7&lt;/a&gt; pushed to &lt;a href=&quot;/facebook/fbthrift/tree/master&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:branch&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;/facebook/fbthrift&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:repo&quot;&gt;facebook/fbthrift&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot;&gt;&lt;img alt=&quot;@facebook-github-bot-7&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars2.githubusercontent.com/u/8397364?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits &quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;Tom Jackson&quot;&gt;
+            &lt;img alt=&quot;&quot; height=&quot;16&quot; src=&quot;https://2.gravatar.com/avatar/2cf32e8548814e89b11cc2c2a4e0c242?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=x&amp;amp;s=140&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/facebook/fbthrift/commit/7afa9b3f885f92877bbf690d17c470ce44916a5b&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:sha&quot;&gt;7afa9b3&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              Stop double-instantiating structs in deserialization
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:IssueCommentEvent/3964306962</id>
+    <published>2016-05-03T00:08:46Z</published>
+    <updated>2016-05-03T00:08:46Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/facebook/react/pull/6568#issuecomment-216400790"/>
+    <title type="html">facebook-github-bot-7 commented on pull request facebook/react#6568</title>
+    <author>
+      <name>facebook-github-bot-7</name>
+      <email></email>
+      <uri>https://github.com/facebook-github-bot-7</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/8397364?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- issue_comment --&gt;
+&lt;svg aria-label=&quot;Issue comment&quot; class=&quot;octicon octicon-comment-discussion dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;32&quot;&gt;&lt;path d=&quot;M15 2H6c-0.55 0-1 0.45-1 1v2H1c-0.55 0-1 0.45-1 1v6c0 0.55 0.45 1 1 1h1v3l3-3h4c0.55 0 1-0.45 1-1V10h1l3 3V10h1c0.55 0 1-0.45 1-1V3c0-0.55-0.45-1-1-1zM9 12H4.5l-1.5 1.5v-1.5H1V6h4v3c0 0.55 0.45 1 1 1h3v2z m6-3H13v1.5l-1.5-1.5H6V3h9v6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-05-03T00:08:46Z&quot;&gt;May 3, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:actor&quot;&gt;facebook-github-bot-7&lt;/a&gt; commented on pull request &lt;a href=&quot;/facebook/react/pull/6568#issuecomment-216400790&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:issue-comment&quot; title=&quot;fixed minor typo&quot;&gt;facebook/react#6568&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot;&gt;&lt;img alt=&quot;@facebook-github-bot-7&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars2.githubusercontent.com/u/8397364?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+  &lt;div class=&quot;message markdown-body&quot;&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Thank you for signing our Contributor License Agreement. We can now accept your code for this (and any) Facebook open source project. Thanks!&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/3964177526</id>
+    <published>2016-05-02T23:25:39Z</published>
+    <updated>2016-05-02T23:25:39Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/facebook/nuclide/compare/2639d8a4b2...c3d05ec80e"/>
+    <title type="html">facebook-github-bot-7 pushed to master at facebook/nuclide</title>
+    <author>
+      <name>facebook-github-bot-7</name>
+      <email></email>
+      <uri>https://github.com/facebook-github-bot-7</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/8397364?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;svg aria-label=&quot;Push&quot; class=&quot;octicon octicon-git-commit dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 14 16&quot; width=&quot;28&quot;&gt;&lt;path d=&quot;M10.86 7c-0.45-1.72-2-3-3.86-3s-3.41 1.28-3.86 3H0v2h3.14c0.45 1.72 2 3 3.86 3s3.41-1.28 3.86-3h3.14V7H10.86zM7 10.2c-1.22 0-2.2-0.98-2.2-2.2s0.98-2.2 2.2-2.2 2.2 0.98 2.2 2.2-0.98 2.2-2.2 2.2z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-05-02T23:25:39Z&quot;&gt;May 2, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:actor&quot;&gt;facebook-github-bot-7&lt;/a&gt; pushed to &lt;a href=&quot;/facebook/nuclide/tree/master&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:branch&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;/facebook/nuclide&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:repo&quot;&gt;facebook/nuclide&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot;&gt;&lt;img alt=&quot;@facebook-github-bot-7&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars2.githubusercontent.com/u/8397364?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits &quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;zertosh&quot;&gt;
+            &lt;img alt=&quot;@zertosh&quot; height=&quot;16&quot; src=&quot;https://avatars1.githubusercontent.com/u/830952?v=3&amp;amp;s=32&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/facebook/nuclide/commit/c3d05ec80e402272d23effe0b7794d4f4aaadc3b&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:sha&quot;&gt;c3d05ec&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              Enable inline-imports
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;nmote&quot;&gt;
+            &lt;img alt=&quot;@nmote&quot; height=&quot;16&quot; src=&quot;https://avatars0.githubusercontent.com/u/7988361?v=3&amp;amp;s=32&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/facebook/nuclide/commit/5c9a2993c96d5f1327cb957b93c277e5226cff9b&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:sha&quot;&gt;5c9a299&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              Add module.use_strict=true to .flowconfig
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+        &lt;li class=&quot;more&quot;&gt;&lt;a href=&quot;/facebook/nuclide/compare/2639d8a4b2...c3d05ec80e&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:comparison&quot;&gt;View comparison for these 2 commits &amp;raquo;&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/3963911339</id>
+    <published>2016-05-02T22:10:29Z</published>
+    <updated>2016-05-02T22:10:29Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/facebook/nuclide/compare/aac4ce06b3...2639d8a4b2"/>
+    <title type="html">facebook-github-bot-7 pushed to master at facebook/nuclide</title>
+    <author>
+      <name>facebook-github-bot-7</name>
+      <email></email>
+      <uri>https://github.com/facebook-github-bot-7</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/8397364?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;svg aria-label=&quot;Push&quot; class=&quot;octicon octicon-git-commit dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 14 16&quot; width=&quot;28&quot;&gt;&lt;path d=&quot;M10.86 7c-0.45-1.72-2-3-3.86-3s-3.41 1.28-3.86 3H0v2h3.14c0.45 1.72 2 3 3.86 3s3.41-1.28 3.86-3h3.14V7H10.86zM7 10.2c-1.22 0-2.2-0.98-2.2-2.2s0.98-2.2 2.2-2.2 2.2 0.98 2.2 2.2-0.98 2.2-2.2 2.2z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-05-02T22:10:29Z&quot;&gt;May 2, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:actor&quot;&gt;facebook-github-bot-7&lt;/a&gt; pushed to &lt;a href=&quot;/facebook/nuclide/tree/master&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:branch&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;/facebook/nuclide&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:repo&quot;&gt;facebook/nuclide&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot;&gt;&lt;img alt=&quot;@facebook-github-bot-7&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars2.githubusercontent.com/u/8397364?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits &quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;mostafaeweda&quot;&gt;
+            &lt;img alt=&quot;@mostafaeweda&quot; height=&quot;16&quot; src=&quot;https://avatars3.githubusercontent.com/u/264320?v=3&amp;amp;s=32&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/facebook/nuclide/commit/2639d8a4b23d73ba8650859d42715caa18714aa2&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:sha&quot;&gt;2639d8a&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              Diff View: uncommitted changes revision node count is the repo dirty …
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:IssueCommentEvent/3963482718</id>
+    <published>2016-05-02T20:36:19Z</published>
+    <updated>2016-05-02T20:36:19Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/facebook/react-native/pull/7334#issuecomment-216355590"/>
+    <title type="html">facebook-github-bot-7 commented on pull request facebook/react-native#7334</title>
+    <author>
+      <name>facebook-github-bot-7</name>
+      <email></email>
+      <uri>https://github.com/facebook-github-bot-7</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/8397364?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- issue_comment --&gt;
+&lt;svg aria-label=&quot;Issue comment&quot; class=&quot;octicon octicon-comment-discussion dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;32&quot;&gt;&lt;path d=&quot;M15 2H6c-0.55 0-1 0.45-1 1v2H1c-0.55 0-1 0.45-1 1v6c0 0.55 0.45 1 1 1h1v3l3-3h4c0.55 0 1-0.45 1-1V10h1l3 3V10h1c0.55 0 1-0.45 1-1V3c0-0.55-0.45-1-1-1zM9 12H4.5l-1.5 1.5v-1.5H1V6h4v3c0 0.55 0.45 1 1 1h3v2z m6-3H13v1.5l-1.5-1.5H6V3h9v6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-05-02T20:36:19Z&quot;&gt;May 2, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:actor&quot;&gt;facebook-github-bot-7&lt;/a&gt; commented on pull request &lt;a href=&quot;/facebook/react-native/pull/7334#issuecomment-216355590&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:issue-comment&quot; title=&quot;Change the Debug Menu string from Debug/Stop JS Remotely to Debug/Stop Remote JS&quot;&gt;facebook/react-native#7334&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot;&gt;&lt;img alt=&quot;@facebook-github-bot-7&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars2.githubusercontent.com/u/8397364?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+  &lt;div class=&quot;message markdown-body&quot;&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;By analyzing the blame information on this pull request, we identified &lt;a href=&quot;https://github.com/bottledwalter&quot; class=&quot;user-mention&quot;&gt;@bottledwalter&lt;/a&gt; and &lt;a href=&quot;https://github.com/nicklockwood&quot; class=&quot;user-mention&quot;&gt;@nicklockwood&lt;/a&gt; to be potential reviewers.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:IssueCommentEvent/3963442997</id>
+    <published>2016-05-02T20:27:58Z</published>
+    <updated>2016-05-02T20:27:58Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/facebook/react/pull/6677#issuecomment-216353031"/>
+    <title type="html">facebook-github-bot-7 commented on pull request facebook/react#6677</title>
+    <author>
+      <name>facebook-github-bot-7</name>
+      <email></email>
+      <uri>https://github.com/facebook-github-bot-7</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/8397364?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- issue_comment --&gt;
+&lt;svg aria-label=&quot;Issue comment&quot; class=&quot;octicon octicon-comment-discussion dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;32&quot;&gt;&lt;path d=&quot;M15 2H6c-0.55 0-1 0.45-1 1v2H1c-0.55 0-1 0.45-1 1v6c0 0.55 0.45 1 1 1h1v3l3-3h4c0.55 0 1-0.45 1-1V10h1l3 3V10h1c0.55 0 1-0.45 1-1V3c0-0.55-0.45-1-1-1zM9 12H4.5l-1.5 1.5v-1.5H1V6h4v3c0 0.55 0.45 1 1 1h3v2z m6-3H13v1.5l-1.5-1.5H6V3h9v6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-05-02T20:27:58Z&quot;&gt;May 2, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:actor&quot;&gt;facebook-github-bot-7&lt;/a&gt; commented on pull request &lt;a href=&quot;/facebook/react/pull/6677#issuecomment-216353031&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:issue-comment&quot; title=&quot;Don&amp;#39;t warn when style value is &amp;#39;0&amp;#39;&quot;&gt;facebook/react#6677&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot;&gt;&lt;img alt=&quot;@facebook-github-bot-7&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars2.githubusercontent.com/u/8397364?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+  &lt;div class=&quot;message markdown-body&quot;&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;&lt;a href=&quot;https://github.com/zpao&quot; class=&quot;user-mention&quot;&gt;@zpao&lt;/a&gt; updated the pull request.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:IssueCommentEvent/3963442982</id>
+    <published>2016-05-02T20:27:57Z</published>
+    <updated>2016-05-02T20:27:57Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/facebook/react/pull/6669#issuecomment-216353028"/>
+    <title type="html">facebook-github-bot-7 commented on pull request facebook/react#6669</title>
+    <author>
+      <name>facebook-github-bot-7</name>
+      <email></email>
+      <uri>https://github.com/facebook-github-bot-7</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/8397364?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- issue_comment --&gt;
+&lt;svg aria-label=&quot;Issue comment&quot; class=&quot;octicon octicon-comment-discussion dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;32&quot;&gt;&lt;path d=&quot;M15 2H6c-0.55 0-1 0.45-1 1v2H1c-0.55 0-1 0.45-1 1v6c0 0.55 0.45 1 1 1h1v3l3-3h4c0.55 0 1-0.45 1-1V10h1l3 3V10h1c0.55 0 1-0.45 1-1V3c0-0.55-0.45-1-1-1zM9 12H4.5l-1.5 1.5v-1.5H1V6h4v3c0 0.55 0.45 1 1 1h3v2z m6-3H13v1.5l-1.5-1.5H6V3h9v6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-05-02T20:27:57Z&quot;&gt;May 2, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:actor&quot;&gt;facebook-github-bot-7&lt;/a&gt; commented on pull request &lt;a href=&quot;/facebook/react/pull/6669#issuecomment-216353028&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:issue-comment&quot; title=&quot;Create 02-displaying-data.ru-RU.md&quot;&gt;facebook/react#6669&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot;&gt;&lt;img alt=&quot;@facebook-github-bot-7&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars2.githubusercontent.com/u/8397364?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+  &lt;div class=&quot;message markdown-body&quot;&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;&lt;a href=&quot;https://github.com/dotu&quot; class=&quot;user-mention&quot;&gt;@dotu&lt;/a&gt; updated the pull request.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/3962486432</id>
+    <published>2016-05-02T17:00:44Z</published>
+    <updated>2016-05-02T17:00:44Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/facebook/proxygen/compare/14c0b73b8e...c2dcaaf27e"/>
+    <title type="html">facebook-github-bot-7 pushed to master at facebook/proxygen</title>
+    <author>
+      <name>facebook-github-bot-7</name>
+      <email></email>
+      <uri>https://github.com/facebook-github-bot-7</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/8397364?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;svg aria-label=&quot;Push&quot; class=&quot;octicon octicon-git-commit dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 14 16&quot; width=&quot;28&quot;&gt;&lt;path d=&quot;M10.86 7c-0.45-1.72-2-3-3.86-3s-3.41 1.28-3.86 3H0v2h3.14c0.45 1.72 2 3 3.86 3s3.41-1.28 3.86-3h3.14V7H10.86zM7 10.2c-1.22 0-2.2-0.98-2.2-2.2s0.98-2.2 2.2-2.2 2.2 0.98 2.2 2.2-0.98 2.2-2.2 2.2z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-05-02T17:00:44Z&quot;&gt;May 2, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:actor&quot;&gt;facebook-github-bot-7&lt;/a&gt; pushed to &lt;a href=&quot;/facebook/proxygen/tree/master&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:branch&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;/facebook/proxygen&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:repo&quot;&gt;facebook/proxygen&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot;&gt;&lt;img alt=&quot;@facebook-github-bot-7&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars2.githubusercontent.com/u/8397364?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits &quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;ngoyal&quot;&gt;
+            &lt;img alt=&quot;@ngoyal&quot; height=&quot;16&quot; src=&quot;https://avatars0.githubusercontent.com/u/93254?v=3&amp;amp;s=32&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/facebook/proxygen/commit/c2dcaaf27e0d18de2aed1837e86b5c7f9a197d09&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:sha&quot;&gt;c2dcaaf&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              Set the appropriate AsyncSocketExceptionType from SSLException
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:IssueCommentEvent/3962414607</id>
+    <published>2016-05-02T16:44:21Z</published>
+    <updated>2016-05-02T16:44:21Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/facebook/react-native/pull/6231#issuecomment-216288559"/>
+    <title type="html">facebook-github-bot-7 commented on pull request facebook/react-native#6231</title>
+    <author>
+      <name>facebook-github-bot-7</name>
+      <email></email>
+      <uri>https://github.com/facebook-github-bot-7</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/8397364?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- issue_comment --&gt;
+&lt;svg aria-label=&quot;Issue comment&quot; class=&quot;octicon octicon-comment-discussion dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;32&quot;&gt;&lt;path d=&quot;M15 2H6c-0.55 0-1 0.45-1 1v2H1c-0.55 0-1 0.45-1 1v6c0 0.55 0.45 1 1 1h1v3l3-3h4c0.55 0 1-0.45 1-1V10h1l3 3V10h1c0.55 0 1-0.45 1-1V3c0-0.55-0.45-1-1-1zM9 12H4.5l-1.5 1.5v-1.5H1V6h4v3c0 0.55 0.45 1 1 1h3v2z m6-3H13v1.5l-1.5-1.5H6V3h9v6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-05-02T16:44:21Z&quot;&gt;May 2, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:actor&quot;&gt;facebook-github-bot-7&lt;/a&gt; commented on pull request &lt;a href=&quot;/facebook/react-native/pull/6231#issuecomment-216288559&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:issue-comment&quot; title=&quot;Navigator:Add animation to resetTo method&quot;&gt;facebook/react-native#6231&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot;&gt;&lt;img alt=&quot;@facebook-github-bot-7&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars2.githubusercontent.com/u/8397364?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+  &lt;div class=&quot;message markdown-body&quot;&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;&lt;a href=&quot;https://github.com/CntChen&quot; class=&quot;user-mention&quot;&gt;@CntChen&lt;/a&gt; updated the pull request.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/3962377784</id>
+    <published>2016-05-02T16:35:36Z</published>
+    <updated>2016-05-02T16:35:36Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/facebook/folly/compare/ad8a8cb578...a0a4a68dc8"/>
+    <title type="html">facebook-github-bot-7 pushed to master at facebook/folly</title>
+    <author>
+      <name>facebook-github-bot-7</name>
+      <email></email>
+      <uri>https://github.com/facebook-github-bot-7</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/8397364?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;svg aria-label=&quot;Push&quot; class=&quot;octicon octicon-git-commit dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 14 16&quot; width=&quot;28&quot;&gt;&lt;path d=&quot;M10.86 7c-0.45-1.72-2-3-3.86-3s-3.41 1.28-3.86 3H0v2h3.14c0.45 1.72 2 3 3.86 3s3.41-1.28 3.86-3h3.14V7H10.86zM7 10.2c-1.22 0-2.2-0.98-2.2-2.2s0.98-2.2 2.2-2.2 2.2 0.98 2.2 2.2-0.98 2.2-2.2 2.2z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-05-02T16:35:36Z&quot;&gt;May 2, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:actor&quot;&gt;facebook-github-bot-7&lt;/a&gt; pushed to &lt;a href=&quot;/facebook/folly/tree/master&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:branch&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;/facebook/folly&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:repo&quot;&gt;facebook/folly&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot;&gt;&lt;img alt=&quot;@facebook-github-bot-7&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars2.githubusercontent.com/u/8397364?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits &quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;ngoyal&quot;&gt;
+            &lt;img alt=&quot;@ngoyal&quot; height=&quot;16&quot; src=&quot;https://avatars0.githubusercontent.com/u/93254?v=3&amp;amp;s=32&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/facebook/folly/commit/a0a4a68dc876804f283131b5394610c556b67547&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:sha&quot;&gt;a0a4a68&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              Set the appropriate AsyncSocketExceptionType from SSLException
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:IssueCommentEvent/3962023258</id>
+    <published>2016-05-02T15:18:18Z</published>
+    <updated>2016-05-02T15:18:18Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/facebook/react-native/pull/6987#issuecomment-216264820"/>
+    <title type="html">facebook-github-bot-7 commented on pull request facebook/react-native#6987</title>
+    <author>
+      <name>facebook-github-bot-7</name>
+      <email></email>
+      <uri>https://github.com/facebook-github-bot-7</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/8397364?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- issue_comment --&gt;
+&lt;svg aria-label=&quot;Issue comment&quot; class=&quot;octicon octicon-comment-discussion dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;32&quot;&gt;&lt;path d=&quot;M15 2H6c-0.55 0-1 0.45-1 1v2H1c-0.55 0-1 0.45-1 1v6c0 0.55 0.45 1 1 1h1v3l3-3h4c0.55 0 1-0.45 1-1V10h1l3 3V10h1c0.55 0 1-0.45 1-1V3c0-0.55-0.45-1-1-1zM9 12H4.5l-1.5 1.5v-1.5H1V6h4v3c0 0.55 0.45 1 1 1h3v2z m6-3H13v1.5l-1.5-1.5H6V3h9v6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-05-02T15:18:18Z&quot;&gt;May 2, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:actor&quot;&gt;facebook-github-bot-7&lt;/a&gt; commented on pull request &lt;a href=&quot;/facebook/react-native/pull/6987#issuecomment-216264820&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:issue-comment&quot; title=&quot;Fix distanceFilter caching for LocationObserver&quot;&gt;facebook/react-native#6987&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot;&gt;&lt;img alt=&quot;@facebook-github-bot-7&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars2.githubusercontent.com/u/8397364?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+  &lt;div class=&quot;message markdown-body&quot;&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;&lt;a href=&quot;https://github.com/jrichardlai&quot; class=&quot;user-mention&quot;&gt;@jrichardlai&lt;/a&gt; updated the pull request.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:IssueCommentEvent/3962023232</id>
+    <published>2016-05-02T15:18:18Z</published>
+    <updated>2016-05-02T15:18:18Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/facebook/react-native/pull/7030#issuecomment-216264818"/>
+    <title type="html">facebook-github-bot-7 commented on pull request facebook/react-native#7030</title>
+    <author>
+      <name>facebook-github-bot-7</name>
+      <email></email>
+      <uri>https://github.com/facebook-github-bot-7</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/8397364?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- issue_comment --&gt;
+&lt;svg aria-label=&quot;Issue comment&quot; class=&quot;octicon octicon-comment-discussion dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;32&quot;&gt;&lt;path d=&quot;M15 2H6c-0.55 0-1 0.45-1 1v2H1c-0.55 0-1 0.45-1 1v6c0 0.55 0.45 1 1 1h1v3l3-3h4c0.55 0 1-0.45 1-1V10h1l3 3V10h1c0.55 0 1-0.45 1-1V3c0-0.55-0.45-1-1-1zM9 12H4.5l-1.5 1.5v-1.5H1V6h4v3c0 0.55 0.45 1 1 1h3v2z m6-3H13v1.5l-1.5-1.5H6V3h9v6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-05-02T15:18:18Z&quot;&gt;May 2, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:actor&quot;&gt;facebook-github-bot-7&lt;/a&gt; commented on pull request &lt;a href=&quot;/facebook/react-native/pull/7030#issuecomment-216264818&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:issue-comment&quot; title=&quot;show code line in warning&quot;&gt;facebook/react-native#7030&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot;&gt;&lt;img alt=&quot;@facebook-github-bot-7&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars2.githubusercontent.com/u/8397364?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+  &lt;div class=&quot;message markdown-body&quot;&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;&lt;a href=&quot;https://github.com/skv-headless&quot; class=&quot;user-mention&quot;&gt;@skv-headless&lt;/a&gt; updated the pull request.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:IssueCommentEvent/3961684622</id>
+    <published>2016-05-02T14:05:51Z</published>
+    <updated>2016-05-02T14:05:51Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/ParsePlatform/parse-server/pull/1687#issuecomment-216244659"/>
+    <title type="html">facebook-github-bot-7 commented on pull request ParsePlatform/parse-server#1687</title>
+    <author>
+      <name>facebook-github-bot-7</name>
+      <email></email>
+      <uri>https://github.com/facebook-github-bot-7</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/8397364?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- issue_comment --&gt;
+&lt;svg aria-label=&quot;Issue comment&quot; class=&quot;octicon octicon-comment-discussion dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;32&quot;&gt;&lt;path d=&quot;M15 2H6c-0.55 0-1 0.45-1 1v2H1c-0.55 0-1 0.45-1 1v6c0 0.55 0.45 1 1 1h1v3l3-3h4c0.55 0 1-0.45 1-1V10h1l3 3V10h1c0.55 0 1-0.45 1-1V3c0-0.55-0.45-1-1-1zM9 12H4.5l-1.5 1.5v-1.5H1V6h4v3c0 0.55 0.45 1 1 1h3v2z m6-3H13v1.5l-1.5-1.5H6V3h9v6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-05-02T14:05:51Z&quot;&gt;May 2, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:actor&quot;&gt;facebook-github-bot-7&lt;/a&gt; commented on pull request &lt;a href=&quot;/ParsePlatform/parse-server/pull/1687#issuecomment-216244659&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:issue-comment&quot; title=&quot;Fix for #1642 - copy query parameters to request body&quot;&gt;ParsePlatform/parse-server#1687&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot;&gt;&lt;img alt=&quot;@facebook-github-bot-7&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars2.githubusercontent.com/u/8397364?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+  &lt;div class=&quot;message markdown-body&quot;&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;&lt;a href=&quot;https://github.com/steven-supersolid&quot; class=&quot;user-mention&quot;&gt;@steven-supersolid&lt;/a&gt; updated the pull request.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:IssueCommentEvent/3961025428</id>
+    <published>2016-05-02T10:33:33Z</published>
+    <updated>2016-05-02T10:33:33Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/facebook/react-native/pull/7321#issuecomment-216193298"/>
+    <title type="html">facebook-github-bot-7 commented on pull request facebook/react-native#7321</title>
+    <author>
+      <name>facebook-github-bot-7</name>
+      <email></email>
+      <uri>https://github.com/facebook-github-bot-7</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/8397364?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- issue_comment --&gt;
+&lt;svg aria-label=&quot;Issue comment&quot; class=&quot;octicon octicon-comment-discussion dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;32&quot;&gt;&lt;path d=&quot;M15 2H6c-0.55 0-1 0.45-1 1v2H1c-0.55 0-1 0.45-1 1v6c0 0.55 0.45 1 1 1h1v3l3-3h4c0.55 0 1-0.45 1-1V10h1l3 3V10h1c0.55 0 1-0.45 1-1V3c0-0.55-0.45-1-1-1zM9 12H4.5l-1.5 1.5v-1.5H1V6h4v3c0 0.55 0.45 1 1 1h3v2z m6-3H13v1.5l-1.5-1.5H6V3h9v6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-05-02T10:33:33Z&quot;&gt;May 2, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:actor&quot;&gt;facebook-github-bot-7&lt;/a&gt; commented on pull request &lt;a href=&quot;/facebook/react-native/pull/7321#issuecomment-216193298&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:issue-comment&quot; title=&quot;Change app name&quot;&gt;facebook/react-native#7321&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot;&gt;&lt;img alt=&quot;@facebook-github-bot-7&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars2.githubusercontent.com/u/8397364?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+  &lt;div class=&quot;message markdown-body&quot;&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Thanks for importing. If you are an FB employee go to &lt;a href=&quot;https://our.intern.facebook.com/intern/opensource/github/pull_request/270652439934324/int_phab&quot;&gt;Phabricator&lt;/a&gt; to review.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:IssueCommentEvent/3961024703</id>
+    <published>2016-05-02T10:33:15Z</published>
+    <updated>2016-05-02T10:33:15Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/facebook/react-native/pull/7326#issuecomment-216193214"/>
+    <title type="html">facebook-github-bot-7 commented on pull request facebook/react-native#7326</title>
+    <author>
+      <name>facebook-github-bot-7</name>
+      <email></email>
+      <uri>https://github.com/facebook-github-bot-7</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/8397364?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- issue_comment --&gt;
+&lt;svg aria-label=&quot;Issue comment&quot; class=&quot;octicon octicon-comment-discussion dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;32&quot;&gt;&lt;path d=&quot;M15 2H6c-0.55 0-1 0.45-1 1v2H1c-0.55 0-1 0.45-1 1v6c0 0.55 0.45 1 1 1h1v3l3-3h4c0.55 0 1-0.45 1-1V10h1l3 3V10h1c0.55 0 1-0.45 1-1V3c0-0.55-0.45-1-1-1zM9 12H4.5l-1.5 1.5v-1.5H1V6h4v3c0 0.55 0.45 1 1 1h3v2z m6-3H13v1.5l-1.5-1.5H6V3h9v6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-05-02T10:33:15Z&quot;&gt;May 2, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:actor&quot;&gt;facebook-github-bot-7&lt;/a&gt; commented on pull request &lt;a href=&quot;/facebook/react-native/pull/7326#issuecomment-216193214&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:issue-comment&quot; title=&quot;Add donut.me chat apps to showcase&quot;&gt;facebook/react-native#7326&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot;&gt;&lt;img alt=&quot;@facebook-github-bot-7&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars2.githubusercontent.com/u/8397364?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+  &lt;div class=&quot;message markdown-body&quot;&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;&lt;a href=&quot;https://github.com/dbrugne&quot; class=&quot;user-mention&quot;&gt;@dbrugne&lt;/a&gt; updated the pull request.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:IssueCommentEvent/3960598071</id>
+    <published>2016-05-02T07:55:46Z</published>
+    <updated>2016-05-02T07:55:46Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/facebook/react-native/issues/7253#issuecomment-216126302"/>
+    <title type="html">facebook-github-bot-7 commented on issue facebook/react-native#7253</title>
+    <author>
+      <name>facebook-github-bot-7</name>
+      <email></email>
+      <uri>https://github.com/facebook-github-bot-7</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/8397364?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- issue_comment --&gt;
+&lt;svg aria-label=&quot;Issue comment&quot; class=&quot;octicon octicon-comment-discussion dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;32&quot;&gt;&lt;path d=&quot;M15 2H6c-0.55 0-1 0.45-1 1v2H1c-0.55 0-1 0.45-1 1v6c0 0.55 0.45 1 1 1h1v3l3-3h4c0.55 0 1-0.45 1-1V10h1l3 3V10h1c0.55 0 1-0.45 1-1V3c0-0.55-0.45-1-1-1zM9 12H4.5l-1.5 1.5v-1.5H1V6h4v3c0 0.55 0.45 1 1 1h3v2z m6-3H13v1.5l-1.5-1.5H6V3h9v6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-05-02T07:55:46Z&quot;&gt;May 2, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:actor&quot;&gt;facebook-github-bot-7&lt;/a&gt; commented on issue &lt;a href=&quot;/facebook/react-native/issues/7253#issuecomment-216126302&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:issue-comment&quot; title=&quot;RCTException Index Out Of Bound from RCTUIManager&quot;&gt;facebook/react-native#7253&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot;&gt;&lt;img alt=&quot;@facebook-github-bot-7&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars2.githubusercontent.com/u/8397364?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+  &lt;div class=&quot;message markdown-body&quot;&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Hey &lt;a href=&quot;https://github.com/davodesign84&quot; class=&quot;user-mention&quot;&gt;@davodesign84&lt;/a&gt; and thanks for posting this! &lt;a href=&quot;https://github.com/DanielMSchmidt&quot; class=&quot;user-mention&quot;&gt;@DanielMSchmidt&lt;/a&gt; tells me this issue looks like a question that would be best asked on &lt;a href=&quot;http://stackoverflow.com/questions/tagged/react-native&quot;&gt;StackOverflow&lt;/a&gt;.…&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/3959877436</id>
+    <published>2016-05-02T00:01:08Z</published>
+    <updated>2016-05-02T00:01:08Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/facebook/proxygen/compare/e80d399e78...14c0b73b8e"/>
+    <title type="html">facebook-github-bot-7 pushed to master at facebook/proxygen</title>
+    <author>
+      <name>facebook-github-bot-7</name>
+      <email></email>
+      <uri>https://github.com/facebook-github-bot-7</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/8397364?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;svg aria-label=&quot;Push&quot; class=&quot;octicon octicon-git-commit dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 14 16&quot; width=&quot;28&quot;&gt;&lt;path d=&quot;M10.86 7c-0.45-1.72-2-3-3.86-3s-3.41 1.28-3.86 3H0v2h3.14c0.45 1.72 2 3 3.86 3s3.41-1.28 3.86-3h3.14V7H10.86zM7 10.2c-1.22 0-2.2-0.98-2.2-2.2s0.98-2.2 2.2-2.2 2.2 0.98 2.2 2.2-0.98 2.2-2.2 2.2z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-05-02T00:01:08Z&quot;&gt;May 2, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:actor&quot;&gt;facebook-github-bot-7&lt;/a&gt; pushed to &lt;a href=&quot;/facebook/proxygen/tree/master&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:branch&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;/facebook/proxygen&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:repo&quot;&gt;facebook/proxygen&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot;&gt;&lt;img alt=&quot;@facebook-github-bot-7&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars2.githubusercontent.com/u/8397364?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits &quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;benyl&quot;&gt;
+            &lt;img alt=&quot;@benyl&quot; height=&quot;16&quot; src=&quot;https://avatars3.githubusercontent.com/u/1977493?v=3&amp;amp;s=32&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/facebook/proxygen/commit/14c0b73b8e0ea0dc4020addabb41428363ddbdd7&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:sha&quot;&gt;14c0b73&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              Reland D3205038
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:IssueCommentEvent/3959463855</id>
+    <published>2016-05-01T20:03:05Z</published>
+    <updated>2016-05-01T20:03:05Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/facebook/fbtftp/pull/10#issuecomment-216068320"/>
+    <title type="html">facebook-github-bot-7 commented on pull request facebook/fbtftp#10</title>
+    <author>
+      <name>facebook-github-bot-7</name>
+      <email></email>
+      <uri>https://github.com/facebook-github-bot-7</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/8397364?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- issue_comment --&gt;
+&lt;svg aria-label=&quot;Issue comment&quot; class=&quot;octicon octicon-comment-discussion dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;32&quot;&gt;&lt;path d=&quot;M15 2H6c-0.55 0-1 0.45-1 1v2H1c-0.55 0-1 0.45-1 1v6c0 0.55 0.45 1 1 1h1v3l3-3h4c0.55 0 1-0.45 1-1V10h1l3 3V10h1c0.55 0 1-0.45 1-1V3c0-0.55-0.45-1-1-1zM9 12H4.5l-1.5 1.5v-1.5H1V6h4v3c0 0.55 0.45 1 1 1h3v2z m6-3H13v1.5l-1.5-1.5H6V3h9v6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-05-01T20:03:05Z&quot;&gt;May 1, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:actor&quot;&gt;facebook-github-bot-7&lt;/a&gt; commented on pull request &lt;a href=&quot;/facebook/fbtftp/pull/10#issuecomment-216068320&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:issue-comment&quot; title=&quot;Add v4 TFTP Server Support&quot;&gt;facebook/fbtftp#10&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot;&gt;&lt;img alt=&quot;@facebook-github-bot-7&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars2.githubusercontent.com/u/8397364?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+  &lt;div class=&quot;message markdown-body&quot;&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;By analyzing the blame information on this pull request, we identified &lt;a href=&quot;https://github.com/pallotron&quot; class=&quot;user-mention&quot;&gt;@pallotron&lt;/a&gt; and &lt;a href=&quot;https://github.com/berkerpeksag&quot; class=&quot;user-mention&quot;&gt;@berkerpeksag&lt;/a&gt; to be potential reviewers.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/3957677397</id>
+    <published>2016-05-01T01:21:34Z</published>
+    <updated>2016-05-01T01:21:34Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/facebook/react-native/compare/f8f9362c05...9425bcff8f"/>
+    <title type="html">facebook-github-bot-7 pushed to master at facebook/react-native</title>
+    <author>
+      <name>facebook-github-bot-7</name>
+      <email></email>
+      <uri>https://github.com/facebook-github-bot-7</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/8397364?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- push --&gt;
+&lt;svg aria-label=&quot;Push&quot; class=&quot;octicon octicon-git-commit dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 14 16&quot; width=&quot;28&quot;&gt;&lt;path d=&quot;M10.86 7c-0.45-1.72-2-3-3.86-3s-3.41 1.28-3.86 3H0v2h3.14c0.45 1.72 2 3 3.86 3s3.41-1.28 3.86-3h3.14V7H10.86zM7 10.2c-1.22 0-2.2-0.98-2.2-2.2s0.98-2.2 2.2-2.2 2.2 0.98 2.2 2.2-0.98 2.2-2.2 2.2z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-05-01T01:21:34Z&quot;&gt;May 1, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:actor&quot;&gt;facebook-github-bot-7&lt;/a&gt; pushed to &lt;a href=&quot;/facebook/react-native/tree/master&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:branch&quot;&gt;master&lt;/a&gt; at &lt;a href=&quot;/facebook/react-native&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:repo&quot;&gt;facebook/react-native&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot;&gt;&lt;img alt=&quot;@facebook-github-bot-7&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars2.githubusercontent.com/u/8397364?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+
+    &lt;div class=&quot;commits &quot;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;
+          &lt;span title=&quot;SawyerHood&quot;&gt;
+            &lt;img alt=&quot;@SawyerHood&quot; height=&quot;16&quot; src=&quot;https://avatars1.githubusercontent.com/u/2380669?v=3&amp;amp;s=32&quot; width=&quot;16&quot; /&gt;
+          &lt;/span&gt;
+          &lt;code&gt;&lt;a href=&quot;/facebook/react-native/commit/9425bcff8fc3094374da2ea47435f164342b1772&quot; data-ga-click=&quot;News feed, event click, Event click type:PushEvent target:sha&quot;&gt;9425bcf&lt;/a&gt;&lt;/code&gt;
+          &lt;div class=&quot;message&quot;&gt;
+            &lt;blockquote&gt;
+              Updated a warning string in upgrade.js
+            &lt;/blockquote&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:PullRequestEvent/3957677400</id>
+    <published>2016-05-01T01:21:34Z</published>
+    <updated>2016-05-01T01:21:34Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/facebook/react-native/pull/7314"/>
+    <title type="html">facebook-github-bot-7 closed pull request facebook/react-native#7314</title>
+    <author>
+      <name>facebook-github-bot-7</name>
+      <email></email>
+      <uri>https://github.com/facebook-github-bot-7</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/8397364?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- pull_request --&gt;
+&lt;svg aria-label=&quot;Pull request&quot; class=&quot;octicon octicon-git-pull-request dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 12 16&quot; width=&quot;24&quot;&gt;&lt;path d=&quot;M11 11.28c0-1.73 0-6.28 0-6.28-0.03-0.78-0.34-1.47-0.94-2.06s-1.28-0.91-2.06-0.94c0 0-1.02 0-1 0V0L4 3l3 3V4h1c0.27 0.02 0.48 0.11 0.69 0.31s0.3 0.42 0.31 0.69v6.28c-0.59 0.34-1 0.98-1 1.72 0 1.11 0.89 2 2 2s2-0.89 2-2c0-0.73-0.41-1.38-1-1.72z m-1 2.92c-0.66 0-1.2-0.55-1.2-1.2s0.55-1.2 1.2-1.2 1.2 0.55 1.2 1.2-0.55 1.2-1.2 1.2zM4 3c0-1.11-0.89-2-2-2S0 1.89 0 3c0 0.73 0.41 1.38 1 1.72 0 1.55 0 5.56 0 6.56-0.59 0.34-1 0.98-1 1.72 0 1.11 0.89 2 2 2s2-0.89 2-2c0-0.73-0.41-1.38-1-1.72V4.72c0.59-0.34 1-0.98 1-1.72z m-0.8 10c0 0.66-0.55 1.2-1.2 1.2s-1.2-0.55-1.2-1.2 0.55-1.2 1.2-1.2 1.2 0.55 1.2 1.2z m-1.2-8.8c-0.66 0-1.2-0.55-1.2-1.2s0.55-1.2 1.2-1.2 1.2 0.55 1.2 1.2-0.55 1.2-1.2 1.2z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-05-01T01:21:34Z&quot;&gt;May 1, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot; data-ga-click=&quot;News feed, event click, Event click type:PullRequestEvent target:actor&quot;&gt;facebook-github-bot-7&lt;/a&gt; closed pull request &lt;a href=&quot;/facebook/react-native/pull/7314&quot; data-ga-click=&quot;News feed, event click, Event click type:PullRequestEvent target:pull&quot;&gt;facebook/react-native#7314&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot;&gt;&lt;img alt=&quot;@facebook-github-bot-7&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars2.githubusercontent.com/u/8397364?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+  &lt;div class=&quot;message&quot;&gt;
+    &lt;blockquote&gt;Updated a warning string in upgrade.js&lt;/blockquote&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:IssueCommentEvent/3957644011</id>
+    <published>2016-05-01T00:43:30Z</published>
+    <updated>2016-05-01T00:43:30Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/facebook/react-native/pull/7312#issuecomment-216005425"/>
+    <title type="html">facebook-github-bot-7 commented on pull request facebook/react-native#7312</title>
+    <author>
+      <name>facebook-github-bot-7</name>
+      <email></email>
+      <uri>https://github.com/facebook-github-bot-7</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/8397364?v=3&amp;s=30"/>
+    <content type="html">&lt;!-- issue_comment --&gt;
+&lt;svg aria-label=&quot;Issue comment&quot; class=&quot;octicon octicon-comment-discussion dashboard-event-icon&quot; height=&quot;32&quot; role=&quot;img&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;32&quot;&gt;&lt;path d=&quot;M15 2H6c-0.55 0-1 0.45-1 1v2H1c-0.55 0-1 0.45-1 1v6c0 0.55 0.45 1 1 1h1v3l3-3h4c0.55 0 1-0.45 1-1V10h1l3 3V10h1c0.55 0 1-0.45 1-1V3c0-0.55-0.45-1-1-1zM9 12H4.5l-1.5 1.5v-1.5H1V6h4v3c0 0.55 0.45 1 1 1h3v2z m6-3H13v1.5l-1.5-1.5H6V3h9v6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+&lt;div class=&quot;time&quot;&gt;
+  &lt;relative-time datetime=&quot;2016-05-01T00:43:30Z&quot;&gt;May 1, 2016&lt;/relative-time&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;title&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:actor&quot;&gt;facebook-github-bot-7&lt;/a&gt; commented on pull request &lt;a href=&quot;/facebook/react-native/pull/7312#issuecomment-216005425&quot; data-ga-click=&quot;News feed, event click, Event click type:IssueCommentEvent target:issue-comment&quot; title=&quot;Indicate width and height params are being passed to onContentSizeChange.&quot;&gt;facebook/react-native#7312&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;details&quot;&gt;
+  &lt;a href=&quot;/facebook-github-bot-7&quot;&gt;&lt;img alt=&quot;@facebook-github-bot-7&quot; class=&quot;gravatar&quot; height=&quot;30&quot; src=&quot;https://avatars2.githubusercontent.com/u/8397364?v=3&amp;amp;s=60&quot; width=&quot;30&quot; /&gt;&lt;/a&gt;
+  &lt;div class=&quot;message markdown-body&quot;&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Thanks for importing. If you are an FB employee go to &lt;a href=&quot;https://our.intern.facebook.com/intern/opensource/github/pull_request/1016393655110376/int_phab&quot;&gt;Phabricator&lt;/a&gt; to review.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>
